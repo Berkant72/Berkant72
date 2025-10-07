@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Berkant72
 - 👀 I’m interested in developing apps for iOS, iPadOS and macOS. 
-- 🌱 I’m currently learning Swift and SwiftUI.
+- 🌱 I’m programming with Swift and SwiftUI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.berkantdursun.de 
 
